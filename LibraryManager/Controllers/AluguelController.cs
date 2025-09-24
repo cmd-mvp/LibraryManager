@@ -9,7 +9,6 @@ namespace LibraryManager.Controllers;
 [ApiController]
 [Route("[Controller]")]
 
-// AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAATEEEEEEEEEEEEEEEEEEEEEE
 public class AluguelController : ControllerBase
 {
     private LivroContext _context;
